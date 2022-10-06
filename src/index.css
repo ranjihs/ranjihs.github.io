@@ -1,0 +1,34 @@
+* {
+  font-family: "Montserrat-Semibold", "Urbanist", sans-serif;
+  font-weight: 100;
+}
+
+.karnivore {
+  font-family: "Karnivore", "Urbanist", sans-serif;
+  font-weight: 500;
+}
+
+.title-light {
+  font-family: "Montserrat-ExtraBold";
+  color: #A3F7FF;
+}
+
+.title {
+  font-family: "Montserrat-ExtraBold";
+}
+
+
+@font-face {
+  font-family: "Karnivore";
+  src: url(assets/fonts/KARNIBLA.ttf);
+}
+
+@font-face {
+  font-family: "Montserrat-Semibold";
+  src: url(assets/fonts/Montserrat-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: "Montserrat-ExtraBold";
+  src: url(assets/fonts/Montserrat-ExtraBold.ttf);
+}

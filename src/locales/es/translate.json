@@ -1,0 +1,110 @@
+{
+    "translations": {
+        "ABOUT_CNA": {
+            "TITLE": "Organizan",
+            "CENTRO_NIKKEI_ARGENTINO": "Centro Nikkei Argentino",
+            "DESCRIPTION_TEXT": "El Centro Nikkei Argentino (CNA) es una asociación civil sin fines de lucro de los descendientes de japoneses -Nikkei- en la Argentina. Creada en 1985, nace de la necesidad de los Nikkei de mantener contacto con sus raíces y al mismo tiempo de integrar las enseñanzas de los antecesores con el contexto cultural argentino. El CNA es una organización que agrupa en su origen a las generaciones nativas de descendientes de japoneses, y actualmente acoge también a ciudadanos argentinos, que sin tener descendencia nipona, aman la cultura japonesa. Promueve los lazos de paz y amistad entre las culturas argentina, del continente americano y el Japón; y estimula el intercambio de ideas y actividades con el fin de contribuir en la formación de mejores ciudadanos para una sociedad próspera.“Creemos en los valores de la honestidad, el respeto, la responsabilidad, la disciplina, la solidaridad, la gratitud y la humildad” Es la institución que representa a la Argentina en las dos entidades internacionales nikkei del continente Americano: la Asociación Panamericana Nikkei (APN) y la Unión Internacional de Clubes e Instituciones Nikkei (UNICIN)."
+        },
+        "ABOUT_CONFRA": {
+            "TITLE": "Qué es la CONFRA?",
+            "SUBTITLE_INTRO":  {
+                "LABEL": "Introducción",
+                "DESCRIPTION_TEXT": "La Confraternidad Deportiva Internacional Nikkei, a la que cariñosamente llamamos “El Confra”, es una competencia deportiva que con el tiempo se transformó en uno de los acontecimientos más importantes de la comunidad nikkei en América. El evento nació en 1968 gracias a un encuentro organizado en San Pablo entre delegaciones nikkei de Brasil, Argentina y Perú para disputar el “Torneo Colonial de San Pablo”. Con el tiempo, se fueron sumando países y al día de hoy participan unos 1200 atletas de 10 naciones: Argentina, Bolivia, Brasil, Chile, Colombia, México, Paraguay, Perú, República Dominicana y Uruguay. ¿En qué deportes se compite? Hoy son 14: Atletismo, básquet 3x3, béisbol, bowling, futsal, gateball, golf, judo, karate, kendo, natación, tenis, tenis de mesa y voleibol. El Confra se realiza cada dos años en sedes rotativas y ya se disputaron 24 ediciones. Esta será la número 25 y la quinta que organice Argentina"
+            }, 
+            "SUBTITLE_MISSION": "Nuestra misión",
+            "DESCRIPTION_TEXT": "ime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+        },
+        "COUNTDOWN": {
+            "DAYS": "días",
+            "HOURS": "horas",
+            "MINUTES": "mins.",
+            "SECONDS": "segs.",
+            "LABEL": "Faltan"
+        },
+        "FOOTER": {
+            "FOR_MORE_INFO": "Para más información",
+            "CONTACT_US": "Contactanos",
+            "RIGHTS_RESERVED": "Derechos reservados"
+        },
+        "FORM": {
+            "VOLUNTEER": {
+                "BUTTON": "Unite al equipo!"
+            }
+        },
+        "HEADER": {
+            "ABOUT": "Qué es la CONFRA?",
+            "SPORTS": "Deportes",
+            "LOCATION": "Locaciones",
+            "SPONSORS": "Patrocinadores"
+        },
+        "INSTITUTIONS": {
+            "TITLE": "Con el auspicio de"
+        },
+        "LOCATIONS": {
+            "TITLE": "Locaciones",
+            "DESCRIPTION_TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+        },
+        "SPONSORS": {
+            "TITLE": "Patrocinadores",
+            "MAIN_SPONSOR": "Patrocinador Principal",
+            "PLATINUM_SPONSORS": "Patrocinadores Platino",
+            "GOLD_SPONSORS": "Patrocinadores Oro"
+        },
+        "SPORTS": {
+            "TITLE": "Deportes",
+            "DESCRIPTION_TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!",
+            "ATHLETISM": {
+                "TITLE": "Atletismo",
+                "TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "BASEBALL": {
+                "TITLE": "Baseball",
+                "TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "BASKETBALL": {
+                "TITLE": "Basket 3x3",
+                "TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "FUTSAL": {
+                "TITLE": "Futsal",
+                "TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "GATEBALL": {
+                "TITLE": "Gateball",
+                "TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "GOLF": {
+                "TITLE": "Golf",
+                "TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "JUDO": {
+                "TITLE": "Judo",
+                "TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "KARATE": {
+                "TITLE": "Karate",
+                "TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "KENDO": {
+                "TITLE": "Kendo",
+                "TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "PING_PONG": {
+                "TITLE": "Tenis de Mesa",
+                "TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "SWIMMING": {
+                "TITLE": "Natación",
+                "TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "TENNIS": {
+                "TITLE": "Tenis de Campo",
+                "TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "VOLLEYBALL": {
+                "TITLE": "Volleyball",
+                "TEXT": "ES-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            }
+        }
+    }
+}

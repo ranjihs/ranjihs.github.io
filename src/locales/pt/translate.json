@@ -1,0 +1,102 @@
+{
+    "translations": {
+        "ABOUT_CNA": {
+            "TITLE": "Organizar",
+            "CENTRO_NIKKEI_ARGENTINO": "Centro Nikkei Argentino",
+            "DESCRIPTION_TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+        },
+        "ABOUT_CONFRA": {
+            "TITLE": "O que é CONFRA?",
+            "SUBTITLE_INTRO": "Introdução",
+            "SUBTITLE_MISSION": "Nossa missão",
+            "DESCRIPTION_TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+        },
+        "COUNTDOWN": {
+            "DAYS": "dias",
+            "HOURS": "horas",
+            "MINUTES": "mins.",
+            "SECONDS": "segs.",
+            "LABEL": "Tempo restante"
+        },
+        "FOOTER": {
+            "FOR_MORE_INFO": "Para maiores informações",
+            "CONTACT_US": "Contate-Nos",
+            "RIGHTS_RESERVED": "Todos os direitos reservados"
+        },
+        "HEADER": {
+            "ABOUT": "O que é CONFRA?",
+            "SPORTS": "Esportes",
+            "LOCATION": "Localizações",
+            "SPONSORS": "Patrocinadores"
+        },
+        "INSTITUTIONS": {
+            "TITLE": "Sob os auspícios de"
+        },
+        "LOCATIONS": {
+            "TITLE": "Localizações",
+            "DESCRIPTION_TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+        },
+        "SPONSORS": {
+            "TITLE": "Patrocinadores",
+            "MAIN_SPONSOR": "Principal patrocinador",
+            "PLATINUM_SPONSORS": "Patrocinador Platinum",
+            "GOLD_SPONSORS": "Patrocinador Ouro"
+        },
+        "SPORTS": {
+            "TITLE": "Esportes",
+            "DESCRIPTION_TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!",
+            "ATHLETISM": {
+                "TITLE": "Atletismo",
+                "TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "BASEBALL": {
+                "TITLE": "Beisebol",
+                "TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "BASKETBALL": {
+                "TITLE": "Basquetebol 3x3",
+                "TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "FUTSAL": {
+                "TITLE": "Futsal",
+                "TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "GATEBALL": {
+                "TITLE": "Gateball",
+                "TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "GOLF": {
+                "TITLE": "Golf",
+                "TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "JUDO": {
+                "TITLE": "Judo",
+                "TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "KARATE": {
+                "TITLE": "Karatê",
+                "TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "KENDO": {
+                "TITLE": "Kendo",
+                "TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "PING_PONG": {
+                "TITLE": "Tênis de mesa",
+                "TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "SWIMMING": {
+                "TITLE": "Nadar",
+                "TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "TENNIS": {
+                "TITLE": "Tênis",
+                "TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "VOLLEYBALL": {
+                "TITLE": "Voleibol",
+                "TEXT": "PT-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            }
+        }
+    }
+}

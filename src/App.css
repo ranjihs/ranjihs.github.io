@@ -1,0 +1,365 @@
+#root {
+  background-color: #161510;
+  color: #fafafa;
+}
+
+.slogan {
+  background: linear-gradient(rgba(0, 0, 0, 0.582),rgba(0,0,0,0.611)),
+    url(assets/images/background/salto_largo.jpg)
+    no-repeat;
+  background-position: center bottom;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.text-shadow {
+  text-shadow: 4px 4px 2px #333;
+}
+
+.drop-shadow {
+  -webkit-filter: drop-shadow(4px 4px 0px #000);
+  filter: drop-shadow(4px 4px 0px #000);
+}
+
+.waves {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.waves svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+}
+
+@media (max-width: 992px) and (min-width: 768px) {
+  .waves svg {
+    height: 100px;
+  }
+}
+
+@media (max-width: 768px) {
+  .waves svg {
+    height: 70px;
+  }
+}
+
+.waves .shape-fill {
+  fill: #161510;
+}
+.white-waves .shape-fill {
+  fill: #fff;
+}
+
+.bg-theme {
+  background: #2c3038;
+}
+
+.card-theme {
+  background-color: #40444f;
+}
+
+.ph1 {
+  left: 10%;
+  top: -2rem;
+}
+.photo {
+  max-width: 55%;
+  max-height: 16.2rem;
+  box-shadow: 0 1rem 2rem rgb(0, 0, 0, 0.3);
+  border-radius: 2px;
+  transition: all 0.4s;
+  z-index: 10;
+  position: absolute;
+  outline-offset: 10px;
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+  aspect-ratio: 16/9;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.ph3 {
+  left: 20%;
+  top: 5rem;
+}
+.ph2 {
+  right: 0;
+  top: 2rem;
+}
+
+.photo:hover {
+  transform: scale(1.1) translateY(1rem);
+  box-shadow: 0 1rem 1rem rgb(0, 0, 0, 0.3);
+  z-index: 20;
+  outline: 0.7rem solid rgba(86, 67, 250);
+  cursor: pointer;
+}
+
+.backdrop {
+  position: absolute;
+  background-image: linear-gradient(to bottom, transparent 40%, #40444f 55%);
+  background-size: 100% 200%;
+  background-position: 0 0;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  transition: all 0.4s ease-out;
+}
+
+.image-slide:hover .backdrop {
+  background-position: 0 50%;
+}
+
+.desc {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  transform: translateY(100%);
+  transition: all 0.3s 0s ease-in-out;
+}
+
+.image-slide:hover .desc {
+  transform: translateY(0);
+  transition-delay: 0.2s;
+}
+
+.image {
+  -o-object-fit: cover;
+  object-fit: cover;
+  aspect-ratio: 16/9;
+}
+li {
+  margin-left: 20px;
+  color: #fff;
+}
+
+@media (min-width: 992px) {
+  li:first-child {
+    margin-left: 0;
+  }
+}
+
+.navbar-custom .navbar-nav .nav-item .nav-link {
+  color: #fff;
+  font-size: 1.1rem;
+}
+
+.navbar-custom .navbar-nav .nav-item .nav-link:hover,
+.navbar-custom .navbar-nav .nav-item .nav-link:active {
+  transition: all 0.3s;
+  color: #A3F7FF;
+}
+
+.navbar-custom {
+  padding: 20px 0px;
+  width: 100%;
+  z-index: 999;
+  margin-bottom: 0px;
+  transition: all 0.5s ease-in-out;
+}
+
+.nav-sticky.navbar-custom {
+  margin-top: 0px;
+  padding: 10px 0px;
+  background-color: #161510;
+  box-shadow: 0 10px 33px 14px rgb(0 0 0 / 30%);
+}
+
+html {
+  scroll-padding-top: 100px;
+}
+
+.countdown_wrapper {
+  color: #fff;
+}
+
+.countdown_wrapper .countdown_top {
+  background: #ff4800;
+  font-size: 19px;
+  padding: 10px;
+  text-transform: uppercase;
+  display: inline-block;
+  text-align: right;
+}
+
+.countdown_wrapper .countdown_bottom {
+  display: flex;
+  background: #d93d00;
+  padding: 10px 20px;
+}
+
+.countdown_wrapper .countdown_time {
+  font-size: 70px;
+  margin-right: 14px;
+  padding-right: 49px;
+}
+
+.countdown_wrapper .countdown_tag {
+  text-transform: uppercase;
+  font-size: 20px;
+  padding-left: 7px;
+}
+.countdown_wrapper .countdown_item:last-child .countdown_time {
+  border: none;
+}
+
+.swiper-button {
+  position: absolute;
+  cursor: pointer;
+  top: 50%;
+  z-index: 100;
+  fill: #fff;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Make left arrow from css */
+.btn-prev {
+  transform: translateY(-50%) rotate(180deg);
+  left: -40px;
+}
+.btn-next {
+  right: -40px;
+  transform: translateY(-50%);
+}
+
+.swiper-button:hover {
+  /* background-color: #fff; */
+  fill: #6ACED4;
+}
+
+/* Media query with max width 768px */
+@media (max-width: 768px) {
+  .swiper-button {
+    top: 100%;
+  }
+  .btn-prev {
+    left: auto;
+    right: 55%;
+    transform: translateY(-50%) rotate(180deg);
+  }
+  .btn-next {
+    left: 55%;
+    right: auto;
+    transform: translateY(-50%) rotate(0deg);
+  }
+}
+
+.navbar-collapse.collapse.show {
+  background-color: #252930;
+}
+
+.ovxh {
+  overflow-x: hidden;
+}
+
+.aspect {
+  aspect-ratio: 1/1;
+}
+
+.section-title:after,
+.section-title:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+}
+
+.section-title:before {
+  width: 15px;
+  height: 15px;
+  border: 0.2rem solid #2c3038;
+  background-color: #fff;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: -6px;
+  z-index: 9;
+  border-radius: 50%;
+}
+
+.section-title:after {
+  height: 0.15rem;
+  background-color: #252930;
+  left: 10%;
+  right: 10%;
+}
+
+.counter-icon .icon {
+  height: 2.5rem;
+  width: 2.07rem;
+}
+
+svg.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+.counter-item {
+  border: 1px solid #e4e9eb;
+  border-radius: 0.5rem;
+  width: 3.8125rem;
+  height: 3.8125rem;
+  display: inline-block;
+  text-align: center;
+  padding: 0.3125rem;
+  margin-right: 0.4375rem;
+}
+
+.counter--value {
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.counter--value * {
+  font-family: "Montserrat-Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.counter--label {
+  font-size: 1rem;
+  color: #565c5e;
+  font-weight: 300;
+}
+
+.counter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.md-margin-bottom {
+  margin-bottom: 4rem;
+}
+
+.sm-margin-right {
+  margin-right: 1rem;
+}
+
+.sports-card:hover {  
+  border:2px solid rgb(41, 152, 254);
+  color: rgb(41, 152, 254);
+}
+
+.lng-selector {
+  border: thin transparent !important;
+  padding-bottom: 0 !important;
+}
+
+.lng-selector::after {
+  display: none !important;
+}
+
+.button {  
+  background-color: rgb(162, 246, 254) !important;
+  color: rgb(22, 21, 16) !important;
+  border-color: rgb(22, 21, 16) !important;
+}

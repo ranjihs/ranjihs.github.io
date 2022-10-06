@@ -1,0 +1,102 @@
+{
+    "translations": {
+        "ABOUT_CNA": {
+            "TITLE": "主催",
+            "CENTRO_NIKKEI_ARGENTINO": "Centro Nikkei Argentino",
+            "DESCRIPTION_TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+        },
+        "ABOUT_CONFRA": {
+            "TITLE": "CONFRAとは何ですか？",
+            "SUBTITLE_INTRO": "序章",
+            "SUBTITLE_MISSION": "私たちの使命",
+            "DESCRIPTION_TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+        },
+        "COUNTDOWN": {
+            "DAYS": "日々",
+            "HOURS": "時間",
+            "MINUTES": "分",
+            "SECONDS": "秒",
+            "LABEL": "残り時間"
+        },
+        "FOOTER": {
+            "FOR_MORE_INFO": "詳細については",
+            "CONTACT_US": "お問い合わせ",
+            "RIGHTS_RESERVED": "無断複写・転載を禁じます"
+        },
+        "HEADER": {
+            "ABOUT": "だいたい",
+            "SPORTS": "スポーツ",
+            "LOCATION": "場所",
+            "SPONSORS": "スポンサー"
+        },
+        "INSTITUTIONS": {
+            "TITLE": "の後援の下で"
+        },
+        "LOCATIONS": {
+            "TITLE": "場所",
+            "DESCRIPTION_TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+        },
+        "SPONSORS": {
+            "TITLE": "スポンサー",
+            "MAIN_SPONSOR": "メインスポンサー",
+            "PLATINUM_SPONSORS": "プラチナスポンサー",
+            "GOLD_SPONSORS": "ゴールドスポンサー"
+        },
+        "SPORTS": {
+            "TITLE": "スポーツ",
+            "DESCRIPTION_TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!",
+            "ATHLETISM": {
+                "TITLE": "陸上競技",
+                "TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "BASEBALL": {
+                "TITLE": "野球",
+                "TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "BASKETBALL": {
+                "TITLE": "バスケットボール3x3",
+                "TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "FUTSAL": {
+                "TITLE": "フットサル",
+                "TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "GATEBALL": {
+                "TITLE": "ゲートボール",
+                "TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "GOLF": {
+                "TITLE": "ゴルフ",
+                "TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "JUDO": {
+                "TITLE": "柔道",
+                "TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "KARATE": {
+                "TITLE": "空手",
+                "TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "KENDO": {
+                "TITLE": "剣道",
+                "TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "PING_PONG": {
+                "TITLE": "卓球",
+                "TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "SWIMMING": {
+                "TITLE": "Oyogu",
+                "TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "TENNIS": {
+                "TITLE": "テニス",
+                "TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            },
+            "VOLLEYBALL": {
+                "TITLE": "バレーボール",
+                "TEXT": "JP-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere, voluptate quasi harum magni sit maxime commodi dignissimos ullam debitis voluptatibus ab ipsam. Esse perspiciatis magni eaque illo. Sit, fugiat quia!"
+            }
+        }
+    }
+}
